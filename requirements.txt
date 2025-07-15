@@ -1,0 +1,13 @@
+streamlit
+python-docx
+pdfminer.six
+PyPDF2
+matplotlib
+wordcloud
+plotly
+textstat
+scikit-learn
+torch
+openai
+spacy
+fpdf
